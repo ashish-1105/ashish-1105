@@ -1,5 +1,5 @@
 # Hello, My name is Ashish Jha
-<a href="https://www.linkedin.com/in/ashish-jha-aaa332255/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ashiixh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ## [Introduction]
 
