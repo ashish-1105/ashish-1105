@@ -19,5 +19,8 @@ My journey in computer science has ignited my passion for Artificial Intelligenc
 
 ## [Tools]
 
-### Artificial Intelligence
-<img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+### Machine Learning
+<img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white"/> <img src="https://img.shields.io/badge/numpy-4b73c9?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+## [Projects]
+1. <a href="https://github.com/ashish-1105/Numpy_DR">Digit recognition using just Numpy</a>
